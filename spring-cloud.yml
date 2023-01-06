@@ -1,0 +1,3 @@
+#conf server: configuracion por defecto
+application:
+  name: microservices spring cloud

@@ -1,0 +1,3 @@
+#conf server: configuracion ambiente de desarrollo
+application:
+  name: microservices spring cloud DEV
