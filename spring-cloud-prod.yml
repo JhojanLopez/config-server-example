@@ -1,0 +1,3 @@
+#conf server: configuracion ambiente de produccion
+application:
+  name: microservices spring cloud PROD
